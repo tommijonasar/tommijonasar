@@ -2,7 +2,7 @@
 
 I am a front-end developer and technical lead at [Next Generation Lotteries](https://www.nextgl.com/). 
 
-Contact me :wave:
+👋 Say hi, you can contact me in several ways! 
 -  <tommijonasar@gmail.com>
 - [Twitter](https://twitter.com/tommijonasar) 
 - [Linkedin](https://www.linkedin.com/in/t%C3%B3mas-j%C3%B3nasson-1491026/)
