@@ -1,6 +1,6 @@
 ### Hi there
 
-I am a front-end developer and technical lead at [Next Generation Lotteries](https://www.nextgl.com/). 
+I am a front-end developer and head of front-end development at [Next Generation Lotteries](https://www.nextgl.com/). 
 
 👋 Say hi, you can contact me in several ways! 
 -  <tommijonasar@gmail.com>
