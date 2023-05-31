@@ -1,6 +1,7 @@
 ### Hi there
 
 I am a front-end developer and head of front-end development at [Pollard Digital Solutions](https://www.nextgl.com/). 
+
 In my spare time, I develop and run [framundanibeinni.is](https://framundanibeinni.is/), a page that collects tv schedules for live sporting events in Iceland and presents a combined schedule with filters.
 
 👋 Say hi, you can contact me in several ways! 
